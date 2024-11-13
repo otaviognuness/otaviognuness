@@ -1,21 +1,19 @@
-<h2 align="left">About me</h2>
-<p align="left">Olá! Meu nome é Otávio Nunes, e sou estudante de programação.<br><br>Estou graduando em Análise e Desenvolvimento de Sistemas. Meu primeiro contato com a programação foi com Java, especialmente em desenvolvimento back-end.<br><br>Atualmente, estou focado em aprimorar minhas habilidades em Python, com o objetivo de desenvolver soluções robustas e escaláveis.<br><br>Também tenho experiência com bancos de dados, incluindo SQL Server e MySQL.</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0096FF&height=120&section=header"/>
 
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviognuness&show_icons=true&theme=gotham)
+<h2 align="left">Sobre mim</h2> <p align="left"> Olá! Meu nome é Otávio Nunes, e sou estudante de programação.<br><br> Estou graduando em Análise e Desenvolvimento de Sistemas. Meu primeiro contato com a programação foi com Java, especialmente em desenvolvimento back-end.<br><br> Atualmente, estou focado em aprimorar minhas habilidades em Python, com o objetivo de desenvolver soluções robustas e escaláveis.<br><br> Também tenho experiência com bancos de dados, incluindo SQL Server e MySQL. </p> <div align="center">
 
-## Techs
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+ ### Minhas habilidades
+ <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
 </div>
 
-## Social Media
-<div align="left">
-  <a href="https://www.linkedin.com/in/ot%C3%A1vio-gabriel-nunes/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+### Estudando no momento
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="12" />
 
+ ### Mídias Sociais
+</div> <div align="center">
+
+ <a href="https://www.linkedin.com/in/otávio-gabriel-nunes" target="_blank">LinkedIn</a> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0096FF&height=120&section=footer"/>
